@@ -1,8 +1,13 @@
-## 안녕하세요! :wave:
-당장의 보상보다는, 전문성을 기를 수 있는 곳을 찾습니다.  
-'신뢰할 수 있는 숙련 기술자'가 되는 것이 목표입니다.   
-          
-## 관련 현황
-- [gists - 요즘 개발/공유한 코드스니펫 모음](https://gist.github.com/tae0y)    
-- [repos - 요즘 개발중인 레포](https://github.com/tae0y?tab=repositories)  
-- [stars - 요즘 관심있는 것들!](https://github.com/tae0y?tab=stars)     
+A software engineer who finishes what he starts.
+
+**Projects**
+- 🌌 [that-night-sky](https://github.com/tae0y/that-night-sky) — reconstruct the night sky for any place and date
+- 🏠 [real-estate-mcp](https://github.com/tae0y/real-estate-mcp) — ask Claude about Korean apartment prices via MOLIT's open API
+- 🍎 [claude-usage-menubar](https://github.com/tae0y/claude-usage-menubar) — macOS menu bar app for Claude Code token usage
+
+**Open Source Contributions**
+- [aliencube/open-chat-playground](https://github.com/aliencube/open-chat-playground) — web UI connecting LLMs across platforms
+- [aliencube/azure-openai-sdk-proxy](https://github.com/aliencube/azure-openai-sdk-proxy) — round-robin proxy for Azure OpenAI instances
+
+**Browse**
+[Gists](https://gist.github.com/tae0y) · [Repos](https://github.com/tae0y?tab=repositories) · [Stars](https://github.com/tae0y?tab=stars)
