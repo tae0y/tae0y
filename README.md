@@ -9,5 +9,7 @@ A software engineer who finishes what he starts.
 - [aliencube/open-chat-playground](https://github.com/aliencube/open-chat-playground) — web UI connecting LLMs across platforms
 - [aliencube/azure-openai-sdk-proxy](https://github.com/aliencube/azure-openai-sdk-proxy) — round-robin proxy for Azure OpenAI instances
 
-**Browse**
-[Gists](https://gist.github.com/tae0y) · [Repos](https://github.com/tae0y?tab=repositories) · [Stars](https://github.com/tae0y?tab=stars)
+**ETC**
+- [python-project-template](https://github.com/tae0y/python-project-template) - Project template for Claude Python Vibecoding workflow
+
+**Browse** [Gists](https://gist.github.com/tae0y) · [Repos](https://github.com/tae0y?tab=repositories) · [Stars](https://github.com/tae0y?tab=stars)
