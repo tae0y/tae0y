@@ -1,5 +1,3 @@
-A software engineer who finishes what he starts.
-
 **Personal Projects**
 - 🌌 [that-night-sky](https://github.com/tae0y/that-night-sky) — reconstruct the night sky for any place and date
 - 🏠 [real-estate-mcp](https://github.com/tae0y/real-estate-mcp) — ask Claude about Korean apartment prices via MOLIT's open API
